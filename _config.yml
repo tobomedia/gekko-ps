@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
-title: "Welcome to Gekko Production Services"
+title: "Gekko Production Services"
+github:
+  is_project_page: false
