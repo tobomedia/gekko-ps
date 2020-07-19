@@ -1,1 +1,1 @@
-[Gekko Logo](gekko-logo.jpg)
+![Gekko Logo](https://tobomedia.github.io/gekko-ps/gekko-logo.jpg)
