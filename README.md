@@ -1,4 +1,4 @@
-# Gekko Production Services
+# Gekko Production Services Ltd
 
 **Email:** rab@gekko-ps.co.uk
 
